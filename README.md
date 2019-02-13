@@ -22,8 +22,11 @@ To use the plugin you must follow the following steps:
 
 
  2. Select the folder with the images you want classify
+ 
  ![Select framework and model](docs/images/001.PNG)
+
 
  
  3. Visualize the output
+ 
  ![Visualize the output](docs/images/002.PNG)
